@@ -1,5 +1,4 @@
-![image](https://github.com/user-attachments/assets/855f79a2-11a2-415c-b55e-5f3ca7959160)# Visita de Obra
-
+# Visita de Obra
 Una empresa constructora quiere manejar de forma centralizada los informes de visita de obra de sus especialistas de seguridad e higiene.
 Un arquitecto carga carga planos de obra, planificación de la obra, notas y solicitar a uno o varios inspectores que realicen una visita de obra.
 
